@@ -174,7 +174,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 👨‍💻 Author
 Disha Agarwalla
 
-GitHub: @Auro993
+GitHub: @DishaAgarwalla
 
 Email: aurosmitasahoo4@gmail.com
 
