@@ -176,7 +176,7 @@ Disha Agarwalla
 
 GitHub: @DishaAgarwalla
 
-Email: aurosmitasahoo4@gmail.com
+Email: dishaagarwalla02@gmail.com
 
 🙏 Acknowledgments
 Spring Boot Documentation
