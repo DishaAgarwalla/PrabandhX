@@ -1,6 +1,6 @@
 # 🚀 PrabandhX
 
-**Full-Stack Organization Management System**
+**Full-Stack Organization Management System** 
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
